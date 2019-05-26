@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi humans!
+
+Olivia here, I just want to learn more about code writing, and improve myself.
